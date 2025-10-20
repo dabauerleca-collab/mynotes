@@ -25,3 +25,5 @@ Thursday
 Friday
 12:00 - 12:59 - [COMP1238](https://learn.georgebrown.ca/d2l/home/412494)
 3:00 - 4:59 - [COMP 1151](https://learn.georgebrown.ca/d2l/home/408347) 
+
+https://github.com/dabauerleca-collab/mynotes
