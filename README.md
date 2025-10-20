@@ -27,4 +27,4 @@ Friday
 3:00 - 4:59 - [COMP 1151](https://learn.georgebrown.ca/d2l/home/408347) 
 
 
-link exists [private repo](https://github.com/dabauerleca-collab/mynotes)
+link exists [private repo](https://dabauerleca-collab.github.io/mynotes/) 
