@@ -6,7 +6,8 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [COMP1238 ](comp1238.md)
 - 
-- ## Schedule
+- ## My Courses Fall 2025
+
 Monday
 10:00 - 11:59 - [COMP1236](https://learn.georgebrown.ca/d2l/home/416378) 
 1:00 - 2:59 - [COMP1238](https://learn.georgebrown.ca/d2l/home/412494) 
