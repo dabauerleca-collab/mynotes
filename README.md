@@ -30,4 +30,4 @@ Friday
 link exists [private repo](https://dabauerleca-collab.github.io/mynotes/) 
 
 ## Link to COMP1238 File
-[view COMP1238] (comp1238.md)
+[view COMP1238](comp1238.md)
